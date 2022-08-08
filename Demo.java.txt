@@ -1,0 +1,5 @@
+Class A{
+Public void Procees(){
+//logic
+}
+}
